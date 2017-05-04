@@ -1,12 +1,14 @@
 
 @keyframes swageffect{
     0%  {color:maroon;}
-   50%  {color:black;}
+   33%  {color:black;}
+    66%  {color:white;}
    100%  {color:maroon;}
 }
 @-webkit-keyframes swageffect{
     0%  {color:maroon;}
-   50%  {color:black;}
+   33%  {color:black;}
+    66%  {color:white;}
    100%  {color:maroon;}
 }
 h1{
