@@ -1,18 +1,18 @@
 
 @keyframes swageffect{
-    25%  {color:maroon;}
-   25%  {color:black;}
+    0%  {color:maroon;}
+   100%  {color:black;}
 }
 @-webkit-keyframes swageffect{
-    25%  {color:maroon;}
-   25%  {color:black;}
+    0%  {color:maroon;}
+   100%  {color:black;}
 }
 h1{
   font-family: 'Bungee Shade', cursive;
   -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
   animation-name: swageffect;
-  font-size: 60px;
+  font-size: 200px;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
